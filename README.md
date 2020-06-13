@@ -8,6 +8,9 @@ Bloggie is a platform for those people who want to start a blog but are unable t
 
 ![Bloggie Home Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Vector-Galaxy-s20-Mockup9.png)
 
+Special Thanks To 
+ diegoveloper - https://gist.github.com/diegoveloper/1cd23e79a31d0c18a67424f0cbdfd7ad
+ (For his approach to implement indexedStack with animations)
 
 
 ## Getting Started
