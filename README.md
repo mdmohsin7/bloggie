@@ -4,6 +4,9 @@ Bloggie is a platform for those people who want to start a blog but are unable t
 
 ![Bloggie Promo Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Vector-Galaxy-s20-Mockup.png)
 
+![Bloggie Home Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Vector-Galaxy-s20-Mockup9.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
