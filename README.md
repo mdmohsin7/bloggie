@@ -2,6 +2,8 @@
 
 It provides a platform for people who want to start a blog but are unable to afford the expenses of running and managing a blog. Here in Bloggie, a person can publish articles and can generate passive income just by sharing them with others. The more influencing the article is, the more they can earn.
 
+![Bloggie Promo Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Vector-Galaxy-s20-Mockup.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
