@@ -4,7 +4,10 @@ Bloggie is a platform for those people who want to start a blog but are unable t
 
 ![Bloggie Promo Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Vector-Galaxy-s20-Mockup.png)
 
+![Bloggie Promo2 Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Galaxy-S20-Ultra.png)
+
 ![Bloggie Home Image](https://github.com/mdmohsin7/bloggie/blob/master/screenshots/Vector-Galaxy-s20-Mockup9.png)
+
 
 
 ## Getting Started
